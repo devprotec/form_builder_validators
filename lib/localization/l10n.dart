@@ -4,8 +4,8 @@ import 'package:flutter/foundation.dart';
 import 'package:flutter/widgets.dart';
 import 'package:flutter_localizations/flutter_localizations.dart';
 
-import 'intl/messages.dart';
-import 'intl/messages_en.dart';
+import 'intll/messages.dart';
+import 'intll/messages_en.dart';
 
 /// The actual `Localizations` class is [FormBuilderLocalizationsImpl], this class exists only for forward compatibility purposes...
 class FormBuilderLocalizations {
